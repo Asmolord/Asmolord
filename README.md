@@ -1,36 +1,48 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=header"/>
 
-<!--
-**Asmolord/Asmolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevMaicon&show_icons=true&theme=outrun" alt="Desenvolvedor Maicon Ribeiro GitHub stats" />
+  
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjcc&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
+</div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevMaicon&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<h3 align="left">Sobre:</h3>
+<p>Sou apaixonado por tecnologia e, atualmente estou me graduando em Analise e Desenvolvimento de Sistemas, com vasto conhecimento em Backend e Frontend.</p>
+
+<p>Busco mais conhecimentos em CyberSecurity e Analise de Dados.</p>
+
+
+<h3 align="left">Contatos:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/lucas-jorge-carvalho/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+<h3 align="left">Tecnologias que mais uso:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,express,nodejs,prisma,jest,postgres,matlab,html,css,arduino,git,gitlab,github" />
+  </a>
+</p>
+
+<h3 align="left">Tecnologias que tenho algum conhecimento:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,docker,heroku" />
+  </a>
+</p>
 
 <div align="center">
-<a href="https://github.com/DevBatista1">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asmolord1&show_icons=true&theme=dracula&include_all_commits
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmolord1&layout=compact&langs_count=7&theme=dra
+<br><p align="centre"><b>Visitantes:</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucasjcc}/count.svg" /></p> 
+<br>
 </div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/ja
-<img align="center" alt="Dev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/ty
-<img align="center" alt="Dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/reac
-<img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
-<img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
-</div>
-##
-<div>
-<a href="https://www.youtube.com/channel/UC44Y7HUcjOu200dbBYjSjjQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?s
-<a href="AQUI VAI O LINK DO INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&log
-<a href = "mailto:devbatistacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoCo
-<a href="AQUI VAI O LINK DO LINKEDIM" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=
-![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
+
